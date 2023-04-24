@@ -53,7 +53,7 @@ for i in range(n):
     print('X%d = %.2f'%(i,x[i]),end=' ')
 ```  
 ## Output:  
-![OUTPUT](./images/output.png)
+<img width=90% height=20% src="./images/output.png">
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
 
